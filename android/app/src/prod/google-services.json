@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422010931145",
+    "project_id": "flavour-test-prod-8015d",
+    "storage_bucket": "flavour-test-prod-8015d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422010931145:android:ba482aac2b760ff29d8a18",
+        "android_client_info": {
+          "package_name": "com.radix.flavor_test.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422010931145-5g3r4uaa54fnasbt0qh9c4jlvljt1urk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAK2VNTB4ed5BKIYnHER2fBT1aq1aQ8lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422010931145-5g3r4uaa54fnasbt0qh9c4jlvljt1urk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
